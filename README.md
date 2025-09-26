@@ -8,4 +8,4 @@ We build the twelve requested pieces step-by-step:
  5  Two Python calculations
  6  Objectives & author
  7  Push to GitHub
-—exactly as specified in the final peer-graded assignment.
+, exactly as specified in the final peer-graded assignment.
